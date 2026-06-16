@@ -1,0 +1,7 @@
+precision,workload_type,dims
+fp32,scalar_mul,131072
+fp32,scalar_add,194
+fp32,typecast_from_fp32_to_bf16,17710
+fp32,pointwise_mul,73027
+bf16,typecast_from_bf16_to_fp32,675
+bf16,pointwise_add,406872

@@ -1,0 +1,3 @@
+Batch,M,N,K,PrecisionM,PrecisionA,Tensorcore,Iterations
+64,256,1024,512,bf16,bf16,True,38955
+16,16,16,1024,bf16,bf16,True,1000000

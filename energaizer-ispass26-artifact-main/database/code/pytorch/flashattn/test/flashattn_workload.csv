@@ -1,0 +1,3 @@
+precision,backend,sdpa_batch_size,sdpa_num_heads,sdpa_sequence_len,sdpa_embed_dimension,sdpa_decoding_phase,sdpa_gqa,iterations
+bf16,flash_attention,1,12,1024,192,False,False,-1
+bf16,flash_attention,2,32,1024,128,False,False,-1

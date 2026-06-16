@@ -1,0 +1,3 @@
+op,size,iter,root,in_place
+all_reduce,16384,266753,0,False
+all_gather,131072,192202,0,False

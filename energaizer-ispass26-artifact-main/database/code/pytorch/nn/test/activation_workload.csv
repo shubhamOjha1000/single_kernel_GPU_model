@@ -1,0 +1,8 @@
+precision,workload_type,workload_function,dims
+bf16,pointwise,relu,14263
+bf16,pointwise,relu,536870911
+bf16,pointwise,silu,50859008
+fp32,pointwise,tanh,588
+fp32,pointwise,tanh,1204497
+fp32,pointwise,sigmoid,172950
+fp32,pointwise,gelu,37640

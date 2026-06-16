@@ -1,0 +1,3 @@
+precision,workload_type,workload_function,dims,iterations
+bf16,conv,conv2d,"(1, 32, 1, 4, 4, 1, 1, 1, 0)",-1
+bf16,conv,conv2d,"(1, 32, 1, 4, 4, 1, 1, 2, 0)",-1

@@ -1,0 +1,3 @@
+precision,workload_type,workload_function,dims,iterations
+bf16,nonlinear,softmax,"(1024, 1024)",-1
+bf16,nonlinear,layernorm,"(8192, 960)",-1
