@@ -1,1 +1,4 @@
 EnergAIzer.pdf
+__pycache__/
+*.pyc
+power_trace.png
